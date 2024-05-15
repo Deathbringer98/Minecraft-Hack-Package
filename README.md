@@ -1,5 +1,5 @@
 # Minecraft-Hack-Package
-A Minecraft hack package comments explaining code
+A Minecraft hack package with comments explaining the code
 
 ## SpeedHack Class:
 This class is responsible for manipulating the player's speed within predefined limits. It randomly alters the speed slightly to make the changes less noticeable while ensuring it stays within a safe range between a defined maximum and minimum speed. It also includes functionality to toggle the speed hack on and off.
@@ -13,5 +13,5 @@ The AutoAttack class enables the simulation of attacking a targeted entity. It i
 ## Entity Class:
 This utility class represents a game entity with basic attributes, such as name and position coordinates (x, y, z). It's used by the AutoTarget and AutoAttack classes to demonstrate interactions with game entities. The class also includes an attack range attribute.
 
-## XRay Class:
-The XRay class demonstrates a potential feature where players could see hidden underground resources, like minerals and chests. It includes a method to toggle the XRay hack on and off and simulates the detection of hidden resources.
+## X-Ray Class:
+The X-ray class demonstrates a potential feature where players could see hidden underground resources, like minerals and chests. It includes a method to toggle the XRay hack on and off and simulates the detection of hidden resources.
